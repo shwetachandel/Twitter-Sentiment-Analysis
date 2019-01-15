@@ -4,6 +4,6 @@ Use Natural Language Processing and Machine Learning techniques to predict the s
 
 Problem: Identify the tweets which are hate tweets and which are not.
 
-Website: 
+Website: https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
 
-Accuracy: 7
+Accuracy: 72.82%
