@@ -6,4 +6,4 @@ Problem: Identify the tweets which are hate tweets and which are not.
 
 Website: https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
 
-Accuracy: 74.80%
+F1-Score: 74.80%
